@@ -16,7 +16,7 @@ function login(){
     //     document.getElementById("error").innerHTML=error.message
         
     alert("Login Sucessful");
-    location.href="/welcome.html";
+    location.href="/index.html";
     
 }
 
@@ -28,7 +28,7 @@ function signUp(){
     //     document.getElementById("error").innerHTML=error.message
     // });
     alert("Login Sucessful");
-    location.href="/welcome.html";
+    location.href="/index.html";
 }
 
 function forgetPass(){
